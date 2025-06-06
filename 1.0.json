@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Alucard",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwqF0a335LVYvXTb1v8pSAUJJMcMyJiMwfQ&s",
+        "role": "Fighter"
+    },
+     {
+        "name": "Miya",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20250407160822",
+        "role": "Marksman"
+    },
+     {
+        "name": "Aldous",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cb=20241021142204",
+        "role": "Fighter"
+    },
+     {
+        "name": "Fanny",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20241021141015",
+        "role": "Assassin"
+    },
+     {
+        "name": "Lancelot",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20241021141749",
+        "role": "Assassin"
+    }
+]
