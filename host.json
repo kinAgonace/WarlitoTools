@@ -1,6 +1,7 @@
 [
     {
         "version":"v1.0",
-        "server":"https://raw.githubusercontent.com/kinAgonace/WarlitoTools/refs/heads/main/1.0.json"
+        "vs":"https://raw.githubusercontent.com/kinAgonace/WarlitoTools/refs/heads/main/1.0.json",
+        "us":"https://github.com/kinAgonace/WarlitoTools/raw/refs/heads/main/upgrade.1.0.json"
     }
 ]
